@@ -9,7 +9,7 @@ cover: 'assets/images/group_no_turning_back.jpg'
 tags: Field-Trip
 class: post-template
 subclass: 'post tag-field-trip'
-author: nabil
+author: carmilla
 ---
 
 IMAGE BUILDERS MEMPHIS (MOLDING OUR FUTURE IN THE IMAGE OF GOD)
