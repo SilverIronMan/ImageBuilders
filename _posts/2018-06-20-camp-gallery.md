@@ -4,7 +4,7 @@ current: post
 cover: 'assets/images/basketball.jpg'
 navigation: True
 title: Camp Gallery
-date: 2018-06-19 10:18:00
+date: 2018-06-20 10:18:00
 tags: pictures
 class: post-template
 subclass: 'post tag-pictures'
